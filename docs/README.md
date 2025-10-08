@@ -1,4 +1,4 @@
-```markdown
+
 # 🏷️ Metaverse Project
 
 ## 📝 Description
@@ -104,4 +104,3 @@ This command creates an optimized build in the `.next` directory (for Next.js pr
 
 ### License
 This project is typically released under an open-source license. Please refer to the `LICENSE` file within the repository for specific licensing information. If no `LICENSE` file is present, standard GitHub terms of service apply.
-```
